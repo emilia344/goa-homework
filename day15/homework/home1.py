@@ -1,16 +1,16 @@
-#momxmarebes shemoatanine ori integeri ricxvi da daprinte mati shedarebebi shedarebis operatorebit (>, <, <=, >=, !=, ==)
+#momxmarebes shemoatanine ori integeri ricxvi da daprinte mati shedarebebi shedarebis operatorebit (>, <, <=, >=, !=, =
 
-num = 1
-print(num<2)
+num=int(input("Ecri un nombre:"))
 
-num = 24
-print(num>23)
+num1=int(input("Ecri un nombre:"))
 
-num = 100
-print(num<=100)
+print(num<num1)
+print(num>num1)
+print(num<=num1)
+print(num>=num1)
+print(num==num1)
+print(num!=num1)
 
-num = 567
-print(num!= 234)
 
-num = 123
-print(num==123)
+
+
