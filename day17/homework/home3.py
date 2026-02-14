@@ -3,6 +3,7 @@
 Prenom =input("Ecri mon prenom:")
 nom=input("Ecri mon nom:")
 age=int(input("Ecri mon age:"))
-taille=int(input("Ecri ma taille:"))
+taille=float(input("Ecri ma taille:"))
 
 print(f"Ecri mon prenom {Prenom} Ecri mon nom {nom} Ecri mon age {age} Ecri ma taille{taille}")
+
