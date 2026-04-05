@@ -2,4 +2,5 @@
 
 animal="leopard"
 for lettre  in animal:
-    print(animal)
+    print(lettre)
+
