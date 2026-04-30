@@ -2,5 +2,5 @@
 
 py = "python"
 
-for i in range("mait python en ligne"):
+for i in py:
     print(i)
